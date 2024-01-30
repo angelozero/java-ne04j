@@ -2,7 +2,7 @@
 ![neo4j](https://dist.neo4j.com/wp-content/uploads/20170726233003/hello-world-neo4j-inc-company-name-change.png)
 
 ---
- ## WHat is Neo4J ?
+ ## What is Neo4J ?
  - Neo4j is a graph database (NoSQL)
  - Is a collection of nodes and relationships between nodes.
 
